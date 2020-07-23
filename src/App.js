@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 import moment from 'moment'
 import './App.scss'
-import PanelContext, { PanelProvider } from './panel/PanelContext';
-import PanelNextButton from './panel/PanelNextButton';
-import PanelContainer from './panel/PanelContainer';
-import PanelIndicator from './panel/PanelIndicator';
+import PanelContext, { PanelProvider } from './panel/PanelContext'
+import PanelNextButton from './panel/PanelNextButton'
+import PanelContainer from './panel/PanelContainer'
+import PanelIndicator from './panel/PanelIndicator'
 
 const getDateNow = () => {
     return moment().format('YYYY-MM-DD')
