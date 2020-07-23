@@ -23,7 +23,9 @@ language: korean
 - [x] Layout init
 - [x] General mechanism build
 - [x] Web design
+- [ ] Make Icon and Identity
 - [ ] Write Manual
+- [ ] Chrome storage API link system build
 - [ ] Internet search system build
 - [ ] Language select system build
 

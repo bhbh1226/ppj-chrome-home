@@ -1,0 +1,9 @@
+{
+    "name": "PPJ Chrome Home",
+    "description": "PPJ's Chrome Home Extension",
+    "version": "0.1.0",
+    "chrome_url_overrides": {
+        "newtab": "./build/index.html"
+    },
+    "manifest_version": 2
+}
