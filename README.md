@@ -14,12 +14,16 @@ frontend는 react로 작성되었습니다.
 
 누구나 커스텀하여 사용할 수 있습니다.
 
+language: korean
+
 
 
 ## TODO
 
 - [x] Layout init
-- [ ] Mechanism build
-- [ ] Design
+- [x] General mechanism build
+- [x] Web design
 - [ ] Write Manual
+- [ ] Internet search system build
+- [ ] Language select system build
 

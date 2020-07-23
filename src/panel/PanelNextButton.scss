@@ -1,0 +1,20 @@
+.next-button {
+    background: none;
+    border: 0;
+    outline: 0;
+}
+
+.next-button-icon {
+    font-size: 1.6em;
+    color: white;
+    transition: 100ms;
+    cursor: pointer;
+
+    &:hover {
+        color: rgba(white, 0.7);
+    }
+
+    &:active {
+        color: rgba(white, 0.4);
+    }
+}

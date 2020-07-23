@@ -1,0 +1,16 @@
+.panel-wrapper {
+    position: absolute;
+
+    display: flex;
+    flex-direction: column;
+
+    transition: 300ms;
+
+    &.panel-focuesd {
+        opacity: 1;
+    }
+
+    &.panel-unfocused {
+        opacity: 0;
+    }
+}
